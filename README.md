@@ -13,9 +13,9 @@ This project demonstrates how advanced FEA techniques can capture **laser/weldin
 - Shows **integration of FEA + custom programming** for advanced simulations.  
 - Demonstrates **thermal-material interaction** under localized moving loads.  
 
-## 🛠 Skills Showcased
-✅ Abaqus (FEA for heat transfer)  
-✅ User subroutines in Fortran (DFLUX)  
-✅ Simulation of moving thermal sources  
-✅ Result visualization (contours & animations)  
-✅ Technical documentation (GitHub project)  
+##  Skills Showcased
+- Abaqus (FEA for heat transfer)  
+- User subroutines in Fortran (DFLUX)  
+- Simulation of moving thermal sources  
+- Result visualization (contours & animations)  
+- Technical documentation (GitHub project)  
