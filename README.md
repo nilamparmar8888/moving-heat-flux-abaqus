@@ -1,4 +1,4 @@
-# 🔥 Moving Heat Flux Simulation (Abaqus + Fortran)
+# 🔥 High-Fidelity Thermal Simulation in Abaqus with Custom DFLUX Subroutine(Abaqus + Fortran)
 
 A high-fidelity thermal simulation in **Abaqus** using a custom **DFLUX subroutine (Fortran)** to model a **moving Gaussian heat source**.  
 This project demonstrates how advanced FEA techniques can capture **laser/welding-like heat transfer** and predict **temperature evolution (NT11)** in real time.
